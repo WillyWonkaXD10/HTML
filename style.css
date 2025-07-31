@@ -387,7 +387,7 @@ body {
   display: inline-block;
 }
 
-@media(max-width: 991px) {
+@media(max-width: 1150px) {
   .menu {
     padding: 20px;
     justify-content: space-between;
@@ -443,15 +443,15 @@ body {
   }
 
   .slider-txt h1 {
-    font-size: 50px;
+    font-size: 30px;
   }
 
   .slider-txt p {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .btn-1 {
-    padding: 10px 25px;
+    padding: 8px 23px;
     font-size: 14px;
   }
 
@@ -462,7 +462,7 @@ body {
 
   .slider-img img {
     margin-right: 0px;
-    width: 300px;
+    width: 250px;
   }
 
   .swiper-horizontal > .swipper-pagination-bullets,
@@ -473,7 +473,7 @@ body {
   }
 
   .tabs {
-    padding: 50px 30px;
+    padding: 50px 28px;
   }
   
   .tabs label {
@@ -502,14 +502,14 @@ body {
   }
 
   .info-txt h2{
-    font-size: 50px;
+    font-size: 30px;
   }
 
   .info-txt p {
-    font-size: 16px;
+    font-size: 14px;
   }
 
-  .btn-1 {
+  .btn-2 {
     font-size: 16px;
   }
 
@@ -519,7 +519,7 @@ body {
   }
 
   .horario-info h2{
-    font-size: 50px;
+    font-size: 40px;
     margin-bottom: 15px;
   }
 
