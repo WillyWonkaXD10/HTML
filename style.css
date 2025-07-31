@@ -13,6 +13,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -477,7 +478,29 @@ body {
   }
   
   .tabs label {
+    font-size: 14px;
     width: 33%;
+  }
+
+  .tabs input[type="radio"]:checked + label{
+  font-size: 16px;
+  }
+
+  .product {
+    margin-left: 20px;
+  }
+
+  .product-img img{
+    width: 120px;
+    height: 100px;
+  }
+
+  .product-txt h4{
+    font-size: 15px;
+  }
+
+  .product-txt p{
+    font-size: 12px;
   }
 
   .info {
@@ -491,8 +514,8 @@ body {
   }
 
   .info-img img{
-    width: 400px;
-    height: 200px;
+    width: 200px;
+    height: 100px;
     margin-bottom: 25px;
   }
 
